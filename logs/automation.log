@@ -1,0 +1,33 @@
+2026-01-08 21:16:56 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-01-08 21:16:56 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2026-01-08 21:16:57 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2026-01-08 21:16:57 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2026-01-08 21:16:58 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2026-01-08 21:16:58 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2026-01-08 21:16:58 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-08 21:17:00 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2026-01-08 21:19:56 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-01-08 21:19:56 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2026-01-08 21:19:56 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2026-01-08 21:19:56 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2026-01-08 21:19:58 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2026-01-08 21:19:58 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2026-01-08 21:19:58 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-08 21:20:00 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2026-01-08 21:20:06 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2026-01-08 21:25:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Vigne\Desktop\sele\OpencartV121\OpencartV121\GroupTesting.xml
+
+2026-01-08 21:25:11 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-01-08 21:25:11 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2026-01-08 21:25:11 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2026-01-08 21:25:11 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2026-01-08 21:25:13 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2026-01-08 21:25:13 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2026-01-08 21:25:13 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-08 21:25:16 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2026-01-08 21:25:17 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2026-01-08 21:25:20 INFO  TC_004_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2026-01-08 21:25:21 INFO  TC_004_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2026-01-08 21:25:23 INFO  TC_005_AddToCartPageTest:15 -  Starting TC_005_AddToCartPageTest 
+2026-01-08 21:25:24 INFO  TC_005_AddToCartPageTest:41 -  Finished TC_004_SearchProductTest 
